@@ -126,7 +126,7 @@
     </td>
 
 <td valign="top">
-      <h2 align="center">Game Projects🎮</h2>
+  <h2 align="center">Game Projects🎮</h2>
       <table>
         <tr><th>Game Project name</th><th>Project link</th></tr>
         <tr><td>Tic Tac Toe Game</td><td><a href="https://github.com/NazaninFereydouniF/Tic-Tac-Toe-Game">repository</a></td></tr>
