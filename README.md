@@ -105,40 +105,35 @@
 </div>
 
 <br/>
-  
-###
-
-<h2 align="center">Projects😉</h2>
 
 ###
+
+<h2 align="center">Projects</h2>
+
+###
+
 <table align="center">
-    <tr>
-        <td>Project name</td>
-        <td>Project link</td>
-    <tr>
-          <td>Speech_To_Text</td>
-          <td><a href="https://github.com/NazaninFereydouniF/Speech_To_Text" target="_blank">repositorie</a></td>
-    <tr>
-          <td>Tic Tac Toe Game</td>
-          <td><a href="https://github.com/NazaninFereydouniF/Tic-Tac-Toe-Game" target="_blank">repositorie</a></td>
-    <tr>
-          <td>Black Jack Game</td>
-          <td><a href="https://github.com/NazaninFereydouniF/Black-Jack-Game/blob/main/README.md" target="_blank">repositorie</a></td>
-    <tr>
-          <td>Industrial Robot</td>
-          <td><a href="https://github.com/NazaninFereydouniF/Industrial-Robot/tree/main" target="_blank">repositorie</a></td>
-    <tr>
-          <td>Screen Recorder</td>
-          <td><a href="https://github.com/NazaninFereydouniF/Screen-Recorder-Persian-Format-" target="_blank">repositorie</a></td>
-    <tr>
-          <td>Rock Paper Scissor Game</td>
-          <td><a href="https://github.com/NazaninFereydouniF/Rock-Paper-Scissor-Game/tree/main" target="_blank">repositorie</a></td>
-    <tr>
-          <td>Bank Account</td>
-          <td><a href="https://github.com/NazaninFereydouniF/Bank-Account/tree/main" target="_blank">repositorie</a></td>
-    <tr>
-          <td>Numbers Games</td>
-          <td><a href="https://github.com/NazaninFereydouniF/Numbers-Game/tree/main" target="_blank">repositorie</a></td>
-    </tr>
+  <tr>
+    <td valign="top">
+      <h2 align="center">Projects💻</h2>
+      <table>
+        <tr><th>Project name</th><th>Project link</th></tr>
+        <tr><td>Speech_To_Text</td><td><a href="https://github.com/NazaninFereydouniF/Speech_To_Text">repository</a></td></tr>
+        <tr><td>Industrial Robot</td><td><a href="https://github.com/NazaninFereydouniF/Industrial-Robot">repository</a></td></tr>
+        <tr><td>Screen Recorder</td><td><a href="https://github.com/NazaninFereydouniF/Screen-Recorder-Persian-Format-">repository</a></td></tr>
+        <tr><td>Bank Account</td><td><a href="https://github.com/NazaninFereydouniF/Bank-Account">repository</a></td></tr>
+      </table>
+    </td>
 
+<td valign="top">
+      <h2 align="center">Game Projects🎮</h2>
+      <table>
+        <tr><th>Game Project name</th><th>Project link</th></tr>
+        <tr><td>Tic Tac Toe Game</td><td><a href="https://github.com/NazaninFereydouniF/Tic-Tac-Toe-Game">repository</a></td></tr>
+        <tr><td>Black Jack Game</td><td><a href="https://github.com/NazaninFereydouniF/Black-Jack-Game">repository</a></td></tr>
+        <tr><td>Rock Paper Scissor Game</td><td><a href="https://github.com/NazaninFereydouniF/Rock-Paper-Scissor-Game">repository</a></td></tr>
+        <tr><td>Numbers Games</td><td><a href="https://github.com/NazaninFereydouniF/Numbers-Game">repository</a></td></tr>
+      </table>
+    </td>
+  </tr>
 </table>
