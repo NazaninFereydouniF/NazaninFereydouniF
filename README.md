@@ -131,6 +131,7 @@
         <tr><th>Game Project name</th><th>Project link</th></tr>
         <tr><td>Tic Tac Toe Game</td><td><a href="https://github.com/NazaninFereydouniF/Tic-Tac-Toe-Game">repository</a></td></tr>
         <tr><td>Black Jack Game</td><td><a href="https://github.com/NazaninFereydouniF/Black-Jack-Game">repository</a></td></tr>
+        <tr><td>Chess Game</td><td><a href="https://github.com/NazaninFereydouniF/Chess-Game">repository</a></td></tr>
         <tr><td>Rock Paper Scissor Game</td><td><a href="https://github.com/NazaninFereydouniF/Rock-Paper-Scissor-Game">repository</a></td></tr>
         <tr><td>Numbers Games</td><td><a href="https://github.com/NazaninFereydouniF/Numbers-Game">repository</a></td></tr>
       </table>
