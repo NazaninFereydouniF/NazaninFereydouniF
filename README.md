@@ -53,7 +53,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/NazaninFereydouniF/NazaninFereydouniF/main/Gemini_Generated_Image_r6w7phr6w7phr6w71.jpg"
        alt="Mind map showing the interconnection of AI and human decision-making: on the left, AI systems with branches for Artificial Intelligence, Machine Learning, Deep Learning, and Reinforcement Learning; on the right, human decision-making systems with branches for cognitive processes, experience and intuitive grasp, ethical and value frameworks, and strategic direction and motivation; linked by human learning & AI adaptation and shared goal definition & iteration."
-       width="800">
+       width="500">
 </p>
 
 ###
