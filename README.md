@@ -149,5 +149,12 @@
         <tr><td>Numbers Games</td><td><a href="https://github.com/NazaninFereydouniF/Numbers-Game">repository</a></td></tr>
       </table>
     </td>
+    <td valign="top">
+      <h2 align="center">Dollar Auction Game 💰🔨🎮</h2>
+      <table>
+        <tr><th>Project name</th><th>Project link</th></tr>
+        <tr><td>Normal Game</td><td><a href="https://github.com/NazaninFereydouniF/Dollar-Auction-Game/tree/main">repository</a></td></tr>
+      </table>
+    </td>
   </tr>
 </table>
