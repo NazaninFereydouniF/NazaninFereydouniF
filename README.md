@@ -130,7 +130,7 @@
       <h2 align="center">Projects💻</h2>
       <table>
         <tr><th>Project name</th><th>Project link</th></tr>
-        <tr><td>Speech_To_Text</td><td><a href="https://github.com/NazaninFereydouniF/Speech_To_Text">repository</a></td></tr>
+        <tr><td>Speech To Text</td><td><a href="https://github.com/NazaninFereydouniF/Speech_To_Text">repository</a></td></tr>
         <tr><td>Industrial Robot</td><td><a href="https://github.com/NazaninFereydouniF/Industrial-Robot">repository</a></td></tr>
         <tr><td>Screen Recorder</td><td><a href="https://github.com/NazaninFereydouniF/Screen-Recorder-Persian-Format-">repository</a></td></tr>
         <tr><td>Bank Account</td><td><a href="https://github.com/NazaninFereydouniF/Bank-Account">repository</a></td></tr>
@@ -153,8 +153,8 @@
       <h2 align="center">Dollar Auction Game 💰🔨🎮</h2>
       <table>
         <tr><th>Project name</th><th>Project link</th></tr>
-        <tr><td>Famous Dollar Auction Game</td><td><a href="https://github.com/NazaninFereydouniF/Dollar-Auction-Game/tree/main">repository</a></td></tr>
-        <tr><td>Comulative Dollar Auction Game</td><td><a href="">repository</a></td></tr>
+        <tr><td>Famous Game</td><td><a href="https://github.com/NazaninFereydouniF/Dollar-Auction-Game/tree/main">repository</a></td></tr>
+        <tr><td>Comulative Game</td><td><a href="">repository</a></td></tr>
       </table>
     </td>
   </tr>
