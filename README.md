@@ -79,7 +79,7 @@
     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="30" alt="spss logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Psychopy.png" height="30" alt="psychopy logo"  />
+  <img src="https://github.com/psychopy.png?size=60" height="30" alt="psychopy logo" style="border-radius:50%;"  />
   <img width="12" />
   
   <br/>
@@ -95,7 +95,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/seaborn" height="30" alt="seaborn logo"  />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="30" alt="seaborn logo" style="background:#fff; border-radius:6px; padding:2px;"  />
   <img width="12" />
 
 </div>
